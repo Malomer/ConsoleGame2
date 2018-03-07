@@ -1,0 +1,1333 @@
+﻿Log file open, 02/07/18 22:39:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ConsoleGameGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1975252845) SRandInit(-1975252845).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.661218
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.08-03.39.45:613][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-03.39.45:613][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.08-03.39.45:682][  0]LogInit: Computer: DESKTOP-0U7SDMQ
+[2018.02.08-03.39.45:682][  0]LogInit: User: Connor
+[2018.02.08-03.39.45:682][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.08-03.39.45:683][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.02.08-03.39.45:683][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.08-03.39.45:683][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.08-03.39.45:683][  0]LogMemory: Process Physical Memory: 275.96 MB used, 275.96 MB peak
+[2018.02.08-03.39.45:683][  0]LogMemory: Process Virtual Memory: 273.03 MB used, 273.03 MB peak
+[2018.02.08-03.39.45:683][  0]LogMemory: Physical Memory: 6128.30 MB used,  1936.65 MB free, 8064.96 MB total
+[2018.02.08-03.39.45:683][  0]LogMemory: Virtual Memory: 679.20 MB used,  1936.65 MB free, 134217728.00 MB total
+[2018.02.08-03.39.47:119][  0]LogInit: Using OS detected language (en-US).
+[2018.02.08-03.39.47:119][  0]LogInit: Using OS detected locale (en-CA).
+[2018.02.08-03.39.47:484][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.08-03.39.48:249][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.08-03.39.53:276][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.08-03.39.53:353][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.02.08-03.39.53:353][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.08-03.39.53:392][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.02.08-03.39.53:392][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.08-03.39.53:394][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.08-03.39.53:394][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.08-03.39.53:394][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.08-03.39.53:405][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.08-03.39.53:405][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.02.08-03.39.53:405][  0]LogWindows: EnumDisplayDevices:
+[2018.02.08-03.39.53:405][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.02.08-03.39.53:405][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.08-03.39.53:406][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.02.08-03.39.53:406][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.08-03.39.53:406][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.02.08-03.39.53:406][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.08-03.39.53:406][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.08-03.39.53:406][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.02.08-03.39.53:432][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.08-03.39.53:472][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.08-03.39.53:474][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Intermediate/Shaders/WorkingDirectory/12088/).
+[2018.02.08-03.39.53:474][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Connor/AppData/Local/Temp/UnrealShaderWorkingDir/9A9C5B304D2506090E0ED3B9A75964AB/'.
+[2018.02.08-03.39.53:474][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.08-03.39.59:119][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.08-03.39.59:180][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.08-03.39.59:239][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.08-03.39.59:304][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.08-03.39.59:388][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.08-03.39.59:450][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.08-03.39.59:516][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.08-03.39.59:581][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.08-03.39.59:664][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.08-03.39.59:755][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.08-03.39.59:874][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.08-03.39.59:962][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.08-03.40.00:043][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.08-03.40.00:120][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.08-03.40.00:325][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.08-03.40.00:325][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.08-03.40.00:440][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.08-03.40.00:510][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.08-03.40.00:682][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.08-03.40.00:719][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.08-03.40.00:801][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.08-03.40.00:879][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.08-03.40.00:964][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.08-03.40.01:058][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.08-03.40.01:058][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.08-03.40.02:179][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.08-03.40.02:537][  0]LogDerivedDataCache: Loaded boot cache 0.36s 90MB C:/Users/Connor/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-03.40.02:537][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Connor/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.08-03.40.02:538][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.08-03.40.02:538][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.08-03.40.02:538][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.08-03.40.02:538][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.08-03.40.02:567][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.08-03.40.02:580][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Connor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.08-03.40.02:592][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.08-03.40.02:593][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.08-03.40.02:635][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-03.40.02:635][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.08-03.40.05:387][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.08-03.40.05:810][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.08-03.40.05:864][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.08-03.40.05:864][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.08-03.40.05:864][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.08-03.40.05:864][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.08-03.40.05:864][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.08-03.40.05:898][  0]LogNetVersion: ConsoleGameGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3285746354)
+[2018.02.08-03.40.06:117][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2018.02.08-03.40.06:793][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.139017 seconds
+[2018.02.08-03.40.06:800][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.02.08-03.40.06:800][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.02.08-03.40.06:800][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.08-03.40.06:874][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.08-03.40.28:332][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.08-03.40.28:379][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.08-03.40.29:608][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.08-03.40.30:648][  0]SourceControl: Source control is disabled
+[2018.02.08-03.40.30:648][  0]SourceControl: Source control is disabled
+[2018.02.08-03.40.30:731][  0]SourceControl: Source control is disabled
+[2018.02.08-03.40.30:808][  0]SourceControl: Source control is disabled
+[2018.02.08-03.40.32:238][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.08-03.40.32:646][  0]LogOcInput: OculusInput pre-init called
+[2018.02.08-03.40.33:166][  0]LogEngine: Initializing Engine...
+[2018.02.08-03.40.33:171][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.08-03.40.34:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.08-03.40.34:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.08-03.40.34:462][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.08-03.40.34:475][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-03.40.34:503][  0]LogInit: FAudioDevice initialized.
+[2018.02.08-03.40.34:752][  0]LogDerivedDataCache: Saved boot cache 0.25s 90MB C:/Users/Connor/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.08-03.40.35:682][  0]LogInit: Texture streaming: Enabled
+[2018.02.08-03.40.35:909][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.08-03.40.36:298][  0]LogInit: Transaction tracking system initialized
+[2018.02.08-03.40.36:765][  0]BlueprintLog: New page: Editor Load
+[2018.02.08-03.40.37:995][  0]LocalizationService: Localization service is disabled
+[2018.02.08-03.40.39:656][  0]LogConsoleResponse: Display: 
+[2018.02.08-03.40.41:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/' took 0.04s
+[2018.02.08-03.40.41:082][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.08-03.40.41:082][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.08-03.40.41:082][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.08-03.40.42:972][  0]SourceControl: Source control is disabled
+[2018.02.08-03.40.42:973][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/DreamLife/maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.08-03.40.42:973][  0]LightingResults: New page: Lighting Build
+[2018.02.08-03.40.43:031][  0]MapCheck: New page: Map Check
+[2018.02.08-03.40.43:032][  0]LightingResults: New page: Lighting Build
+[2018.02.08-03.40.46:007][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-03.40.46:037][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.08-03.40.46:084][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.08-03.40.46:171][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.806ms to complete.
+[2018.02.08-03.40.46:171][  0]LogFileHelpers: Loading map 'MainMenu' took 3.199
+[2018.02.08-03.40.46:270][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-03.40.47:588][  0]LogCollectionManager: Loaded 0 collections in 0.002056 seconds
+[2018.02.08-03.40.47:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Saved/Collections/' took 0.01s
+[2018.02.08-03.40.47:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/Developers/Connor/Collections/' took 0.01s
+[2018.02.08-03.40.47:858][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/Collections/' took 0.01s
+[2018.02.08-03.40.47:858][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.08-03.40.47:873][  0]LogContentBrowser: Native class hierarchy populated in 0.0115 seconds. Added 2363 classes and 519 folders.
+[2018.02.08-03.40.48:138][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.08-03.40.50:028][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.02.08-03.40.50:216][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.02.08-03.40.51:383][  0]LogSlate: Took 0.021808 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.08-03.40.51:401][  0]LogSlate: Took 0.014577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.08-03.40.51:514][  0]LogSlate: Took 0.020283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.08-03.40.52:009][  0]LogRenderer: Reallocating scene render targets to support 968x436 Format 9 NumSamples 1 (Frame:1).
+[2018.02.08-03.40.53:067][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.02.08-03.40.53:067][  0]LogLoad: (Engine Initialization) Total time: 97.39 seconds
+[2018.02.08-03.40.53:067][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.08-03.40.53:067][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.08-03.40.53:067][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.08-03.40.53:168][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.08-03.40.53:432][  1]LogSlate: Took 0.010173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-03.40.53:724][  2]LogAssetRegistry: Asset discovery search completed in 47.6286 seconds
+[2018.02.08-03.40.53:732][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.08-03.40.53:732][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2018.02.08-04.10.16:100][804]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-04.10.16:181][804]Cmd: MAP LOAD FILE="../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/DreamLife/maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.08-04.10.16:181][804]LightingResults: New page: Lighting Build
+[2018.02.08-04.10.16:182][804]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.02.08-04.10.16:193][804]MapCheck: New page: Map Check
+[2018.02.08-04.10.16:193][804]LightingResults: New page: Lighting Build
+[2018.02.08-04.10.16:242][804]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.10.16:401][804]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.08-04.10.16:461][804]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.08-04.10.16:515][804]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.501ms to complete.
+[2018.02.08-04.10.16:516][804]LogFileHelpers: Loading map 'MainMenu' took 0.349
+[2018.02.08-04.10.20:120][  6]Cmd: MAP LOAD FILE="../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/DreamLife/maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.08-04.10.20:121][  6]LightingResults: New page: Lighting Build
+[2018.02.08-04.10.20:121][  6]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.02.08-04.10.20:122][  6]MapCheck: New page: Map Check
+[2018.02.08-04.10.20:122][  6]LightingResults: New page: Lighting Build
+[2018.02.08-04.10.20:165][  6]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.10.20:223][  6]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.08-04.10.20:280][  6]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.08-04.10.20:332][  6]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 51.443ms to complete.
+[2018.02.08-04.10.20:334][  6]LogFileHelpers: Loading map 'MainMenu' took 0.214
+[2018.02.08-04.10.21:826][ 91]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.10.22:104][ 91]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.22:122][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.10.22:145][ 91]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:10:22 PM)
+[2018.02.08-04.10.22:165][ 91]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.10.22:231][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066086s)
+[2018.02.08-04.10.22:232][ 91]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.10.22:233][ 91]LogPlayLevel: PIE: World Init took: (0.002363s)
+[2018.02.08-04.10.22:235][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.069916s)
+[2018.02.08-04.10.22:296][ 91]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.10.22:337][ 91]LogInit: FAudioDevice initialized.
+[2018.02.08-04.10.22:531][ 91]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.10.22:672][ 91]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.10.22
+[2018.02.08-04.10.22:689][ 91]LogWorld: Bringing up level for play took: 0.018132
+[2018.02.08-04.10.22:867][ 91]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.08-04.10.23:038][ 91]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.018
+[2018.02.08-04.10.23:039][ 91]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.23:942][125]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.24:951][185]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.25:619][225]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.25:732][225]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.38:430][955]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.10.38:456][955]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.38:457][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.10.38:457][955]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:10:38 PM)
+[2018.02.08-04.10.38:457][955]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.10.38:459][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002584s)
+[2018.02.08-04.10.38:460][955]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.10.38:460][955]LogPlayLevel: PIE: World Init took: (0.000670s)
+[2018.02.08-04.10.38:460][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.003505s)
+[2018.02.08-04.10.38:472][955]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.10.38:490][955]LogInit: FAudioDevice initialized.
+[2018.02.08-04.10.38:588][955]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.10.38:590][955]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.10.38
+[2018.02.08-04.10.38:590][955]LogWorld: Bringing up level for play took: 0.000567
+[2018.02.08-04.10.38:598][955]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu -0.422
+[2018.02.08-04.10.38:598][955]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.39:448][  0]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.40:452][ 59]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.41:768][115]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.42:734][118]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.43:811][121]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.10.44:733][173]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.10.45:747][233]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.10.46:760][293]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.10.47:163][317]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.47:226][317]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.52:161][487]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.10.52:189][487]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.52:189][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.10.52:189][487]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:10:52 PM)
+[2018.02.08-04.10.52:189][487]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.10.52:192][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002375s)
+[2018.02.08-04.10.52:192][487]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.10.52:192][487]LogPlayLevel: PIE: World Init took: (0.000766s)
+[2018.02.08-04.10.52:193][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.003553s)
+[2018.02.08-04.10.52:205][487]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.10.52:224][487]LogInit: FAudioDevice initialized.
+[2018.02.08-04.10.52:329][487]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.10.52:331][487]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.10.52
+[2018.02.08-04.10.52:331][487]LogWorld: Bringing up level for play took: 0.000738
+[2018.02.08-04.10.52:337][487]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu -0.683
+[2018.02.08-04.10.52:337][487]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.10.53:163][532]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.54:169][592]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.55:180][651]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.56:187][711]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.57:193][771]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.58:299][818]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.10.59:298][821]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.11.00:299][837]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.11.01:314][897]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.11.02:314][957]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.11.03:314][ 17]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.11.04:314][ 77]LogBlueprintUserMessages: [MainMenuHud_C_0] 1920x1000
+[2018.02.08-04.11.04:698][100]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.11.04:764][100]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.11.47:530][539]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.08-04.11.47:935][539]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.02.08-04.11.50:439][539]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.08-04.11.50:463][539]LogSlate: Took 0.023234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.08-04.37.42:072][959]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.37.42:130][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.37.42:130][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.37.42:130][959]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:37:42 PM)
+[2018.02.08-04.37.42:131][959]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.37.42:135][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004211s)
+[2018.02.08-04.37.42:136][959]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.37.42:136][959]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2018.02.08-04.37.42:136][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.005909s)
+[2018.02.08-04.37.42:184][959]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.37.42:207][959]LogInit: FAudioDevice initialized.
+[2018.02.08-04.37.42:315][959]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.37.42:317][959]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.37.42
+[2018.02.08-04.37.42:318][959]LogWorld: Bringing up level for play took: 0.001507
+[2018.02.08-04.37.42:330][959]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu -0.69
+[2018.02.08-04.37.42:330][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.37.43:062][979]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.37.44:062][ 14]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.37.45:079][ 51]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.37.45:245][ 57]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.37.45:322][ 57]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.38.08:016][954]LogSlate: Took 0.041118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.08-04.38.24:566][606]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.38.24:610][606]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.38.24:610][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.38.24:611][606]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:38:24 PM)
+[2018.02.08-04.38.24:611][606]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.38.24:613][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001890s)
+[2018.02.08-04.38.24:613][606]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.38.24:613][606]LogPlayLevel: PIE: World Init took: (0.000608s)
+[2018.02.08-04.38.24:614][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.002803s)
+[2018.02.08-04.38.24:641][606]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.38.24:659][606]LogInit: FAudioDevice initialized.
+[2018.02.08-04.38.24:771][606]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.38.24:772][606]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.38.24
+[2018.02.08-04.38.24:773][606]LogWorld: Bringing up level for play took: 0.000828
+[2018.02.08-04.38.24:778][606]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu -0.242
+[2018.02.08-04.38.24:778][606]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.38.25:571][631]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.26:589][669]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.27:602][704]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.28:604][741]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.29:738][777]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.30:732][780]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.31:732][783]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.32:733][786]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.33:734][789]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.34:732][792]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.35:733][795]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.36:739][798]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.37:728][835]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.38:734][876]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.39:996][914]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.40:995][917]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.41:995][920]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.42:994][923]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.43:995][926]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.44:996][929]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.45:998][932]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.46:999][935]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.47:999][938]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.48:999][941]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.49:999][944]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.50:999][947]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.52:009][950]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.53:002][953]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.53:999][956]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.54:999][959]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.55:999][962]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.57:000][965]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.57:999][  5]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.38.59:001][ 63]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.00:286][117]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.01:283][120]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.02:285][123]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.03:283][126]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.04:283][129]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.05:289][170]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.06:966][211]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.07:966][271]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.08:966][331]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.10:206][348]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.11:205][367]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.12:418][405]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.13:418][465]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.14:420][525]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.15:419][585]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.16:428][644]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.17:430][704]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.18:442][763]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.19:452][803]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.20:461][863]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.21:461][923]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.22:467][971]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.23:482][ 27]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.24:809][ 68]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.25:805][ 71]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.26:804][ 74]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.27:804][ 77]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.29:014][ 92]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.30:012][ 95]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.31:012][ 98]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.32:012][101]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.33:014][104]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.34:012][107]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.35:008][129]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.36:015][188]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.37:026][244]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.38:031][303]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.39:047][361]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.40:168][387]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.41:170][390]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.42:173][450]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.43:180][508]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.44:182][566]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.45:505][588]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.46:506][591]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.47:504][594]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.48:503][597]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.49:627][607]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.50:623][610]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.51:621][613]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.52:621][616]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.53:621][619]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.54:620][622]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.55:624][625]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.56:652][628]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.57:625][686]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.58:626][746]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.39.59:634][804]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.00:644][864]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.01:658][893]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.02:662][953]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.03:856][985]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.04:853][988]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.05:851][991]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.06:851][994]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.07:851][997]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.08:935][  4]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.09:930][  7]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.10:930][ 10]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.11:931][ 13]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.12:930][ 16]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.13:930][ 19]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.14:929][ 22]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.15:930][ 25]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.16:930][ 28]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.17:930][ 31]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.18:930][ 34]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.19:930][ 37]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.20:932][ 40]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.21:931][ 43]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.22:930][ 46]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.23:932][ 49]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.24:934][ 52]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.25:933][ 55]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.26:941][ 96]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.27:957][156]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.28:962][216]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.29:971][275]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.31:256][330]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.32:254][333]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.33:253][336]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.34:253][339]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.35:253][342]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.36:252][345]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.37:252][348]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.38:253][351]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.39:255][354]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.40:253][357]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.41:252][360]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.42:253][363]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.43:252][366]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.44:254][369]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.45:253][372]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.46:253][375]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.47:253][378]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.48:252][381]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.49:252][384]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.50:261][425]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.50:974][467]LogNet: Browse: /Game/DreamLife/maps/level_00
+[2018.02.08-04.40.50:988][467]LogLoad: LoadMap: /Game/DreamLife/maps/level_00
+[2018.02.08-04.40.57:306][467]LogAIModule: Creating AISystem for world level_00
+[2018.02.08-04.40.57:307][467]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.40.57:422][467]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2018.02.07-23.40.57
+[2018.02.08-04.40.57:509][467]LogWorld: Bringing up level for play took: 0.200911
+[2018.02.08-04.40.57:544][467]LogLoad: Took 6.556041 seconds to LoadMap(/Game/DreamLife/maps/level_00)
+[2018.02.08-04.40.57:723][468]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.079536 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer1_461', movement 'Walking'
+[2018.02.08-04.40.57:725][468]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065255 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer2_221', movement 'Walking'
+[2018.02.08-04.40.57:725][468]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer3_476', movement 'Walking'
+[2018.02.08-04.40.57:726][468]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.072458 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer4_632', movement 'Walking'
+[2018.02.08-04.40.58:230][497]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.40.59:246][557]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.00:247][617]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.01:309][675]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.02:320][731]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.03:325][790]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.04:337][848]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.05:349][905]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.06:349][965]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.07:359][ 21]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.08:368][ 80]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.09:407][123]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.10:407][126]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.11:410][129]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.12:411][132]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.13:421][192]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.14:422][247]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.15:447][302]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.16:760][334]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.17:757][337]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.18:758][340]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.19:759][343]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.20:761][346]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.21:825][353]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.22:826][356]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.23:826][359]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.24:825][362]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.25:825][365]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.26:826][368]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.27:827][371]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.28:828][374]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.29:826][430]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.30:826][490]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.31:834][550]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.31:902][554]LogNet: Browse: /Game/DreamLife/maps/level_01
+[2018.02.08-04.41.31:902][554]LogLoad: LoadMap: /Game/DreamLife/maps/level_01
+[2018.02.08-04.41.32:259][554]LogAIModule: Creating AISystem for world level_01
+[2018.02.08-04.41.32:259][554]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.41.32:265][554]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_01.level_01 up for play (max tick rate 60) at 2018.02.07-23.41.32
+[2018.02.08-04.41.32:266][554]LogWorld: Bringing up level for play took: 0.004962
+[2018.02.08-04.41.32:267][554]LogLoad: Took 0.365500 seconds to LoadMap(/Game/DreamLife/maps/level_01)
+[2018.02.08-04.41.32:274][555]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.058700 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer4_926', movement 'Walking'
+[2018.02.08-04.41.32:274][555]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.065903 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer3_686', movement 'Walking'
+[2018.02.08-04.41.32:275][555]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.055099 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer2_443', movement 'Walking'
+[2018.02.08-04.41.32:275][555]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.051498 > MaxSimulationTimeStep (0.050) for 'BP_dragonslayer1_236', movement 'Walking'
+[2018.02.08-04.41.32:907][593]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.33:915][650]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.34:933][710]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.35:930][770]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.36:766][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.41.36:830][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.41.39:498][862]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.41.39:525][862]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.41.39:526][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.41.39:526][862]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:41:39 PM)
+[2018.02.08-04.41.39:526][862]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.41.39:530][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003620s)
+[2018.02.08-04.41.39:531][862]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.41.39:531][862]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2018.02.08-04.41.39:531][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.005496s)
+[2018.02.08-04.41.39:553][862]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.41.39:573][862]LogInit: FAudioDevice initialized.
+[2018.02.08-04.41.39:684][862]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.41.39:686][862]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.41.39
+[2018.02.08-04.41.39:686][862]LogWorld: Bringing up level for play took: 0.000573
+[2018.02.08-04.41.39:691][862]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.671
+[2018.02.08-04.41.39:692][862]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.41.40:506][887]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.41:524][927]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.42:341][960]LogNet: Browse: /Game/DreamLife/maps/level_00
+[2018.02.08-04.41.42:358][960]LogLoad: LoadMap: /Game/DreamLife/maps/level_00
+[2018.02.08-04.41.42:626][960]LogAIModule: Creating AISystem for world level_00
+[2018.02.08-04.41.42:626][960]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.41.42:632][960]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2018.02.07-23.41.42
+[2018.02.08-04.41.42:632][960]LogWorld: Bringing up level for play took: 0.004827
+[2018.02.08-04.41.42:634][960]LogLoad: Took 0.275767 seconds to LoadMap(/Game/DreamLife/maps/level_00)
+[2018.02.08-04.41.43:342][989]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.44:350][ 30]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.45:351][ 61]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.46:357][ 97]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.46:871][116]LogNet: Browse: /Game/DreamLife/maps/level_01
+[2018.02.08-04.41.46:893][116]LogLoad: LoadMap: /Game/DreamLife/maps/level_01
+[2018.02.08-04.41.47:165][116]LogAIModule: Creating AISystem for world level_01
+[2018.02.08-04.41.47:165][116]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.41.47:171][116]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_01.level_01 up for play (max tick rate 60) at 2018.02.07-23.41.47
+[2018.02.08-04.41.47:172][116]LogWorld: Bringing up level for play took: 0.004847
+[2018.02.08-04.41.47:173][116]LogLoad: Took 0.280322 seconds to LoadMap(/Game/DreamLife/maps/level_01)
+[2018.02.08-04.41.47:883][134]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.48:888][174]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.49:892][212]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.50:916][250]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.51:934][289]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.52:952][330]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.53:962][369]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.54:419][387]LogNet: Browse: /Game/DreamLife/maps/Level_02_Boss
+[2018.02.08-04.41.54:438][387]LogLoad: LoadMap: /Game/DreamLife/maps/Level_02_Boss
+[2018.02.08-04.41.54:718][387]LogAIModule: Creating AISystem for world Level_02_Boss
+[2018.02.08-04.41.54:718][387]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.41.54:724][387]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_Level_02_Boss.Level_02_Boss up for play (max tick rate 60) at 2018.02.07-23.41.54
+[2018.02.08-04.41.54:725][387]LogWorld: Bringing up level for play took: 0.005085
+[2018.02.08-04.41.54:727][387]LogLoad: Took 0.288471 seconds to LoadMap(/Game/DreamLife/maps/Level_02_Boss)
+[2018.02.08-04.41.55:440][410]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.56:463][445]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.57:482][483]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.58:484][519]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.41.59:494][556]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.00:514][593]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.01:534][624]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.02:693][633]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.03:701][636]LogBlueprintUserMessages: [Boss1_2] 1
+[2018.02.08-04.42.03:703][636]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.04:694][639]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.06:961][651]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.07:933][654]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.08:936][657]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.09:932][660]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.10:935][663]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.11:984][668]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.12:984][671]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.13:650][673]LogBlueprintUserMessages: [Boss1_2] 0
+[2018.02.08-04.42.13:984][674]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.14:984][677]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.15:984][680]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.16:988][683]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.18:000][709]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.18:128][714]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.18:204][714]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.19:244][720]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.42.19:274][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.19:275][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.42.19:275][720]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:42:19 PM)
+[2018.02.08-04.42.19:275][720]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.42.19:278][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002833s)
+[2018.02.08-04.42.19:278][720]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.42.19:278][720]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.02.08-04.42.19:279][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.003973s)
+[2018.02.08-04.42.19:300][720]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.42.19:319][720]LogInit: FAudioDevice initialized.
+[2018.02.08-04.42.19:424][720]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.42.19:426][720]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.42.19
+[2018.02.08-04.42.19:426][720]LogWorld: Bringing up level for play took: 0.000752
+[2018.02.08-04.42.19:431][720]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.411
+[2018.02.08-04.42.19:432][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.20:260][748]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.21:277][785]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.22:661][800]LogNet: Browse: /Game/DreamLife/maps/level_00
+[2018.02.08-04.42.22:690][800]LogLoad: LoadMap: /Game/DreamLife/maps/level_00
+[2018.02.08-04.42.23:005][800]LogAIModule: Creating AISystem for world level_00
+[2018.02.08-04.42.23:005][800]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.23:011][800]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2018.02.07-23.42.23
+[2018.02.08-04.42.23:011][800]LogWorld: Bringing up level for play took: 0.004858
+[2018.02.08-04.42.23:013][800]LogLoad: Took 0.323134 seconds to LoadMap(/Game/DreamLife/maps/level_00)
+[2018.02.08-04.42.23:773][822]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.24:778][860]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.25:799][898]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.26:811][930]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.27:149][943]LogNet: Browse: /Game/DreamLife/maps/level_01
+[2018.02.08-04.42.27:171][943]LogLoad: LoadMap: /Game/DreamLife/maps/level_01
+[2018.02.08-04.42.27:428][943]LogAIModule: Creating AISystem for world level_01
+[2018.02.08-04.42.27:428][943]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.27:434][943]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_01.level_01 up for play (max tick rate 60) at 2018.02.07-23.42.27
+[2018.02.08-04.42.27:435][943]LogWorld: Bringing up level for play took: 0.004623
+[2018.02.08-04.42.27:436][943]LogLoad: Took 0.265221 seconds to LoadMap(/Game/DreamLife/maps/level_01)
+[2018.02.08-04.42.28:225][973]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.29:237][ 11]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.30:245][ 47]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.30:593][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.30:663][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.31:843][118]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.42.31:872][118]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.31:873][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.42.31:873][118]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:42:31 PM)
+[2018.02.08-04.42.31:873][118]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.42.31:875][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002018s)
+[2018.02.08-04.42.31:875][118]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.42.31:876][118]LogPlayLevel: PIE: World Init took: (0.000633s)
+[2018.02.08-04.42.31:876][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.002904s)
+[2018.02.08-04.42.31:895][118]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.42.31:916][118]LogInit: FAudioDevice initialized.
+[2018.02.08-04.42.32:040][118]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.42.32:042][118]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.42.32
+[2018.02.08-04.42.32:042][118]LogWorld: Bringing up level for play took: 0.000642
+[2018.02.08-04.42.32:048][118]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 1.027
+[2018.02.08-04.42.32:048][118]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.32:865][148]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.33:871][188]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.34:714][222]LogNet: Browse: /Game/DreamLife/maps/level_00
+[2018.02.08-04.42.34:730][222]LogLoad: LoadMap: /Game/DreamLife/maps/level_00
+[2018.02.08-04.42.34:999][222]LogAIModule: Creating AISystem for world level_00
+[2018.02.08-04.42.35:000][222]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.35:005][222]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2018.02.07-23.42.35
+[2018.02.08-04.42.35:006][222]LogWorld: Bringing up level for play took: 0.004617
+[2018.02.08-04.42.35:007][222]LogLoad: Took 0.276764 seconds to LoadMap(/Game/DreamLife/maps/level_00)
+[2018.02.08-04.42.35:714][250]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.36:727][290]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.37:747][328]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.38:747][371]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.39:211][389]LogNet: Browse: /Game/DreamLife/maps/level_01
+[2018.02.08-04.42.39:233][389]LogLoad: LoadMap: /Game/DreamLife/maps/level_01
+[2018.02.08-04.42.39:486][389]LogAIModule: Creating AISystem for world level_01
+[2018.02.08-04.42.39:486][389]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.39:492][389]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_01.level_01 up for play (max tick rate 60) at 2018.02.07-23.42.39
+[2018.02.08-04.42.39:493][389]LogWorld: Bringing up level for play took: 0.005366
+[2018.02.08-04.42.39:495][389]LogLoad: Took 0.261682 seconds to LoadMap(/Game/DreamLife/maps/level_01)
+[2018.02.08-04.42.40:223][419]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.41:240][456]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.42:256][495]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.43:257][534]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.44:270][574]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.45:273][609]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.45:951][636]LogNet: Browse: /Game/DreamLife/maps/Level_02_Boss
+[2018.02.08-04.42.45:970][636]LogLoad: LoadMap: /Game/DreamLife/maps/Level_02_Boss
+[2018.02.08-04.42.46:232][636]LogAIModule: Creating AISystem for world Level_02_Boss
+[2018.02.08-04.42.46:232][636]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.46:238][636]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_Level_02_Boss.Level_02_Boss up for play (max tick rate 60) at 2018.02.07-23.42.46
+[2018.02.08-04.42.46:238][636]LogWorld: Bringing up level for play took: 0.004602
+[2018.02.08-04.42.46:240][636]LogLoad: Took 0.269773 seconds to LoadMap(/Game/DreamLife/maps/Level_02_Boss)
+[2018.02.08-04.42.46:693][654]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.46:761][654]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.47:567][695]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.42.47:595][695]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.47:595][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.42.47:595][695]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:42:47 PM)
+[2018.02.08-04.42.47:595][695]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.42.47:599][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004302s)
+[2018.02.08-04.42.47:601][695]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.42.47:602][695]LogPlayLevel: PIE: World Init took: (0.002303s)
+[2018.02.08-04.42.47:602][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.007092s)
+[2018.02.08-04.42.47:622][695]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.42.47:643][695]LogInit: FAudioDevice initialized.
+[2018.02.08-04.42.47:748][695]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.42.47:751][695]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.42.47
+[2018.02.08-04.42.47:751][695]LogWorld: Bringing up level for play took: 0.000704
+[2018.02.08-04.42.47:756][695]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.736
+[2018.02.08-04.42.47:757][695]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.42.48:675][716]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.49:698][753]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.50:108][767]LogNet: Browse: /Game/DreamLife/maps/level_00
+[2018.02.08-04.42.50:127][767]LogLoad: LoadMap: /Game/DreamLife/maps/level_00
+[2018.02.08-04.42.50:395][767]LogAIModule: Creating AISystem for world level_00
+[2018.02.08-04.42.50:396][767]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.50:401][767]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2018.02.07-23.42.50
+[2018.02.08-04.42.50:402][767]LogWorld: Bringing up level for play took: 0.005322
+[2018.02.08-04.42.50:404][767]LogLoad: Took 0.277140 seconds to LoadMap(/Game/DreamLife/maps/level_00)
+[2018.02.08-04.42.51:139][793]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.52:152][830]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.53:159][867]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.54:301][905]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.54:541][913]LogNet: Browse: /Game/DreamLife/maps/level_01
+[2018.02.08-04.42.54:565][913]LogLoad: LoadMap: /Game/DreamLife/maps/level_01
+[2018.02.08-04.42.54:829][913]LogAIModule: Creating AISystem for world level_01
+[2018.02.08-04.42.54:829][913]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.42.54:836][913]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_01.level_01 up for play (max tick rate 60) at 2018.02.07-23.42.54
+[2018.02.08-04.42.54:836][913]LogWorld: Bringing up level for play took: 0.004987
+[2018.02.08-04.42.54:838][913]LogLoad: Took 0.272306 seconds to LoadMap(/Game/DreamLife/maps/level_01)
+[2018.02.08-04.42.55:571][941]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.56:853][976]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.57:852][  5]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.58:875][ 36]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.42.59:889][ 73]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.00:900][104]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.02:020][134]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.03:040][163]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.04:046][198]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.05:049][236]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.06:482][260]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.07:534][292]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.09:035][302]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.10:039][335]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.11:296][365]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.12:220][393]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.12:288][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.13:393][445]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.43.13:420][445]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.13:420][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.43.13:420][445]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:43:13 PM)
+[2018.02.08-04.43.13:420][445]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.43.13:422][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001981s)
+[2018.02.08-04.43.13:423][445]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.43.13:423][445]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.02.08-04.43.13:423][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.003032s)
+[2018.02.08-04.43.13:449][445]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.43.13:470][445]LogInit: FAudioDevice initialized.
+[2018.02.08-04.43.13:580][445]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.43.13:582][445]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.43.13
+[2018.02.08-04.43.13:582][445]LogWorld: Bringing up level for play took: 0.000606
+[2018.02.08-04.43.13:587][445]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.567
+[2018.02.08-04.43.13:588][445]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.14:418][473]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.15:430][508]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.16:113][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.16:176][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.17:178][575]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.43.17:220][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.17:220][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.43.17:220][575]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:43:17 PM)
+[2018.02.08-04.43.17:220][575]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.43.17:222][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001983s)
+[2018.02.08-04.43.17:223][575]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.43.17:223][575]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.02.08-04.43.17:223][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.003101s)
+[2018.02.08-04.43.17:244][575]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.43.17:261][575]LogInit: FAudioDevice initialized.
+[2018.02.08-04.43.17:371][575]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.43.17:372][575]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.43.17
+[2018.02.08-04.43.17:373][575]LogWorld: Bringing up level for play took: 0.000692
+[2018.02.08-04.43.17:382][575]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.361
+[2018.02.08-04.43.17:382][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.18:184][590]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.18:876][615]LogNet: Browse: /Game/DreamLife/maps/level_00
+[2018.02.08-04.43.18:894][615]LogLoad: LoadMap: /Game/DreamLife/maps/level_00
+[2018.02.08-04.43.19:163][615]LogAIModule: Creating AISystem for world level_00
+[2018.02.08-04.43.19:163][615]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.43.19:168][615]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_00.level_00 up for play (max tick rate 60) at 2018.02.07-23.43.19
+[2018.02.08-04.43.19:169][615]LogWorld: Bringing up level for play took: 0.004644
+[2018.02.08-04.43.19:170][615]LogLoad: Took 0.276644 seconds to LoadMap(/Game/DreamLife/maps/level_00)
+[2018.02.08-04.43.19:893][642]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.20:916][680]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.21:929][714]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.22:939][754]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.23:975][792]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.24:975][828]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.25:059][830]LogNet: Browse: /Game/DreamLife/maps/level_01
+[2018.02.08-04.43.25:087][830]LogLoad: LoadMap: /Game/DreamLife/maps/level_01
+[2018.02.08-04.43.25:344][830]LogAIModule: Creating AISystem for world level_01
+[2018.02.08-04.43.25:345][830]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2018.02.08-04.43.25:351][830]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_level_01.level_01 up for play (max tick rate 60) at 2018.02.07-23.43.25
+[2018.02.08-04.43.25:352][830]LogWorld: Bringing up level for play took: 0.005878
+[2018.02.08-04.43.25:353][830]LogLoad: Took 0.266472 seconds to LoadMap(/Game/DreamLife/maps/level_01)
+[2018.02.08-04.43.26:067][854]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.27:081][893]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.28:126][925]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.29:125][954]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.30:143][994]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.31:153][ 33]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.32:173][ 69]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.33:204][100]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.34:406][117]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.35:490][123]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.36:684][126]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.37:692][153]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.39:030][169]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.40:031][172]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.41:030][175]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.42:033][178]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.43:029][181]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.44:029][184]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.45:031][187]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.46:030][190]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.43.46:814][194]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.43.46:854][194]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.47.22:816][207]BlueprintLog: New page: Compile CreditsWidget
+[2018.02.08-04.47.25:689][326]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.08-04.47.25:753][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.47.25:753][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.08-04.47.25:753][326]PIE: New page: PIE session: MainMenu (Feb 7, 2018, 6:47:25 PM)
+[2018.02.08-04.47.25:753][326]LogPlayLevel: Creating play world package: /Game/DreamLife/maps/UEDPIE_0_MainMenu
+[2018.02.08-04.47.25:755][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2018.02.08-04.47.25:756][326]LogAIModule: Creating AISystem for world MainMenu
+[2018.02.08-04.47.25:756][326]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2018.02.08-04.47.25:757][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DreamLife/maps/MainMenu.MainMenu to /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu (0.003210s)
+[2018.02.08-04.47.25:779][326]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.08-04.47.25:800][326]LogInit: FAudioDevice initialized.
+[2018.02.08-04.47.25:913][326]LogLoad: Game class is 'MainMenuMode_C'
+[2018.02.08-04.47.25:915][326]LogWorld: Bringing World /Game/DreamLife/maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2018.02.07-23.47.25
+[2018.02.08-04.47.25:915][326]LogWorld: Bringing up level for play took: 0.001279
+[2018.02.08-04.47.25:923][326]PIE: Play in editor start time for /Game/DreamLife/maps/UEDPIE_0_MainMenu 0.903
+[2018.02.08-04.47.25:924][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.47.26:699][355]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.27:720][398]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.28:729][440]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.29:745][482]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.30:755][522]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.31:756][558]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.32:910][567]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.33:927][596]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.34:927][640]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.35:929][686]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.36:943][731]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.38:146][744]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.39:147][747]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.40:146][750]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.41:154][753]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.42:394][761]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.43:394][764]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.44:394][767]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.45:395][770]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.46:396][773]LogBlueprintUserMessages: [MainMenuHud_C_0] 1268x678
+[2018.02.08-04.47.47:108][775]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.47.47:149][775]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/DreamLife/maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/DreamLife/maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2018.02.08-04.47.53:236][782]LogSavePackage: Save=86.03ms
+[2018.02.08-04.47.53:236][782]LogSavePackage: Moving '../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Saved/CreditsWidget9FCA0A68483AD35CA661658062BAE8C6.tmp' to '../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/DreamLife/blueprint/CreditsWidget.uasset'
+[2018.02.08-04.47.53:303][782]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/DreamLife/blueprint/CreditsWidget.uasset
+[2018.02.08-04.47.54:179][783]Cmd: QUIT_EDITOR
+[2018.02.08-04.47.54:723][783]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.08-04.47.54:770][783]LogExit: Preparing to exit.
+[2018.02.08-04.47.55:314][783]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/', and we were unable to create a new request.
+[2018.02.08-04.47.55:474][783]LogExit: Editor shut down
+[2018.02.08-04.47.55:484][783]LogExit: Transaction tracking system shut down
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/' was aborted.
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.08-04.47.55:809][783]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.08-04.47.57:057][783]LogExit: Object subsystem successfully closed.
+[2018.02.08-04.47.57:113][783]LogD3D11RHI: Shutdown
+[2018.02.08-04.47.57:114][783]LogD3D11RHI: CleanupD3DDevice
+[2018.02.08-04.47.57:123][783]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.08-04.47.59:014][783]LogModuleManager: Shutting down and abandoning module SequencerWidgets (554)
+[2018.02.08-04.47.59:014][783]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.08-04.47.59:014][783]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.02.08-04.47.59:014][783]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.02.08-04.47.59:014][783]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.02.08-04.47.59:052][783]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.02.08-04.47.59:077][783]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.08-04.47.59:116][783]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.02.08-04.47.59:116][783]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.02.08-04.47.59:116][783]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.02.08-04.47.59:204][783]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/Collections/' was aborted.
+[2018.02.08-04.47.59:204][783]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Content/Developers/Connor/Collections/' was aborted.
+[2018.02.08-04.47.59:204][783]LogDirectoryWatcher: A directory notification for 'C:/Users/Connor/Desktop/RealConsoleGame/ConsoleGameGame 4.18/Saved/Collections/' was aborted.
+[2018.02.08-04.47.59:204][783]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.08-04.47.59:205][783]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.08-04.47.59:205][783]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.08-04.47.59:341][783]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.08-04.47.59:343][783]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.08-04.47.59:343][783]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.08-04.47.59:343][783]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.08-04.47.59:405][783]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.08-04.47.59:405][783]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.08-04.47.59:522][783]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.08-04.47.59:522][783]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.08-04.47.59:523][783]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.08-04.47.59:523][783]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.08-04.47.59:590][783]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.08-04.47.59:672][783]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.08-04.47.59:839][783]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.08-04.47.59:839][783]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.08-04.47.59:839][783]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.08-04.47.59:839][783]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.08-04.47.59:839][783]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.08-04.47.59:839][783]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.08-04.47.59:866][783]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.08-04.47.59:866][783]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.08-04.47.59:866][783]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.08-04.47.59:866][783]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.08-04.47.59:866][783]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.08-04.47.59:866][783]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.08-04.47.59:903][783]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.08-04.47.59:905][783]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.08-04.47.59:905][783]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.08-04.47.59:905][783]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.08-04.47.59:905][783]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.08-04.47.59:905][783]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.08-04.48.00:005][783]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.08-04.48.00:136][783]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.08-04.48.00:173][783]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.08-04.48.00:195][783]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.08-04.48.00:226][783]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.08-04.48.00:232][783]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.08-04.48.00:232][783]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.08-04.48.00:232][783]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.08-04.48.01:204][783]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.08-04.48.01:204][783]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.08-04.48.01:204][783]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.08-04.48.01:204][783]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.08-04.48.01:224][783]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.08-04.48.01:225][783]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.08-04.48.01:233][783]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.08-04.48.01:260][783]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.08-04.48.01:281][783]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.08-04.48.01:307][783]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.08-04.48.01:325][783]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.08-04.48.01:325][783]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.08-04.48.01:348][783]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.08-04.48.01:373][783]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.08-04.48.01:387][783]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.08-04.48.01:401][783]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.08-04.48.01:411][783]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.08-04.48.01:455][783]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.08-04.48.01:473][783]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.08-04.48.01:473][783]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.08-04.48.01:505][783]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.08-04.48.01:519][783]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.08-04.48.01:520][783]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.08-04.48.01:521][783]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.08-04.48.01:576][783]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.08-04.48.01:611][783]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.08-04.48.01:613][783]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.08-04.48.01:632][783]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.08-04.48.01:633][783]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.08-04.48.01:634][783]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.08-04.48.01:634][783]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.08-04.48.01:654][783]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.08-04.48.01:654][783]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.08-04.48.01:654][783]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.08-04.48.01:705][783]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.08-04.48.01:705][783]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.08-04.48.01:719][783]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.08-04.48.01:720][783]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.08-04.48.01:722][783]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.08-04.48.01:722][783]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.08-04.48.01:739][783]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.08-04.48.01:740][783]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.08-04.48.01:740][783]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.08-04.48.01:740][783]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.08-04.48.01:747][783]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.08-04.48.01:747][783]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.08-04.48.01:747][783]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.08-04.48.01:747][783]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.08-04.48.01:747][783]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.08-04.48.01:747][783]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.08-04.48.01:748][783]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.08-04.48.01:748][783]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.08-04.48.01:749][783]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.08-04.48.01:749][783]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.08-04.48.01:824][783]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.08-04.48.01:827][783]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.08-04.48.01:827][783]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.08-04.48.01:827][783]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.08-04.48.01:834][783]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.08-04.48.01:839][783]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.08-04.48.01:839][783]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.08-04.48.01:839][783]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.08-04.48.01:839][783]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.08-04.48.01:840][783]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.08-04.48.01:840][783]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.08-04.48.01:840][783]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.08-04.48.01:840][783]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.08-04.48.01:840][783]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.08-04.48.01:883][783]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.08-04.48.01:899][783]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.08-04.48.01:923][783]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.08-04.48.01:923][783]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.08-04.48.01:923][783]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.08-04.48.01:969][783]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.08-04.48.02:022][783]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.08-04.48.02:024][783]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.08-04.48.02:025][783]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.08-04.48.02:025][783]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.08-04.48.02:026][783]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.08-04.48.02:026][783]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.08-04.48.02:027][783]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.08-04.48.02:028][783]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.08-04.48.02:030][783]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.08-04.48.02:030][783]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.08-04.48.02:030][783]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.08-04.48.02:050][783]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.08-04.48.02:051][783]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.08-04.48.02:153][783]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.08-04.48.02:254][783]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.08-04.48.02:271][783]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.08-04.48.02:271][783]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.08-04.48.02:271][783]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.08-04.48.02:272][783]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.08-04.48.02:272][783]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.08-04.48.02:275][783]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.08-04.48.02:275][783]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.08-04.48.02:276][783]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.08-04.48.02:301][783]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.08-04.48.02:305][783]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.08-04.48.02:305][783]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.08-04.48.02:305][783]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.08-04.48.02:306][783]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.08-04.48.02:307][783]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.08-04.48.02:307][783]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.08-04.48.02:313][783]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.08-04.48.02:313][783]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.08-04.48.02:313][783]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.08-04.48.02:315][783]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.08-04.48.02:316][783]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.08-04.48.02:316][783]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.08-04.48.02:319][783]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.08-04.48.02:320][783]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.08-04.48.02:321][783]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.08-04.48.02:412][783]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.08-04.48.02:413][783]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.08-04.48.02:413][783]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.08-04.48.02:413][783]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.08-04.48.02:413][783]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.08-04.48.02:420][783]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.08-04.48.02:420][783]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.08-04.48.02:431][783]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.08-04.48.02:431][783]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.08-04.48.02:432][783]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.08-04.48.02:432][783]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.08-04.48.02:432][783]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.08-04.48.02:432][783]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.08-04.48.02:432][783]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.08-04.48.02:445][783]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.08-04.48.02:461][783]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.08-04.48.02:462][783]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.08-04.48.02:475][783]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.08-04.48.02:476][783]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.08-04.48.02:476][783]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.08-04.48.02:476][783]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.08-04.48.02:477][783]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.08-04.48.02:485][783]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.08-04.48.02:486][783]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.08-04.48.02:529][783]LogDerivedDataCache: Shutdown
+[2018.02.08-04.48.02:529][783]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.08-04.48.02:529][783]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.08-04.48.02:530][783]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.08-04.48.02:530][783]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.08-04.48.02:531][783]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.08-04.48.02:532][783]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.08-04.48.02:533][783]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.08-04.48.02:533][783]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.08-04.48.02:533][783]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.08-04.48.02:534][783]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.08-04.48.02:534][783]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.08-04.48.02:535][783]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.08-04.48.02:536][783]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.08-04.48.02:537][783]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.08-04.48.02:569][783]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.08-04.48.02:571][783]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.08-04.48.02:571][783]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.02.08-04.48.02:571][783]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDF8C904C-4D2C-F68C-0340-87B5C1DE5673%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=9400c2f646894f9aaf5666bb6ba93eb2%7C9207435885134907958777a1737c2209%7C7a45f9c0-7ba0-4d3f-8f02-ab22ee3a3108&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.08-04.48.02:596][783]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.08-04.48.02:600][783]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.08-04.48.02:601][783]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.08-04.48.02:640][783]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.08-04.48.02:641][783]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.08-04.48.02:644][783]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.08-04.48.02:644][783]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.08-04.48.02:644][783]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.08-04.48.02:648][783]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.08-04.48.02:649][783]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.08-04.48.02:649][783]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.08-04.48.02:651][783]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.08-04.48.02:651][783]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.08-04.48.02:651][783]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.08-04.48.02:651][783]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.08-04.48.02:651][783]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.08-04.48.02:651][783]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.08-04.48.02:652][783]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.08-04.48.02:653][783]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.08-04.48.02:660][783]LogExit: Exiting.
+[2018.02.08-04.48.02:691][783]Log file closed, 02/07/18 23:48:02
